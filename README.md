@@ -2,13 +2,12 @@
 
 Soy un **Ingeniero en Sistemas Computacionales** de 24 años, radicado en México, apasionado por el desarrollo Full-Stack, la arquitectura de software y la automatización de procesos. 
 
-Actualmente trabajo como **Data Scientist en BBVA**, especializándome en automatización E2E, optimización de procesos y análisis de datos.
-
+Actualmente me desempeño en el equipo de **Analitica y mejora continua en Autoridades en BBVA**, donde me especializo en la optimización de procesos, análisis de datos y el diseño e implementación de automatizaciones E2E.
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Egresado del Tecnológico de Estudios Superiores Ixtapaluca (TESI) y Técnico en Programación por el CECyTEM. (¡En proceso de titularme en noviembre de 2026!)
+- 🎓 Egresado del Tecnológico de Estudios Superiores Ixtapaluca (TESI) y Técnico en Programación por el CECyTEM.
 - 💻 Apasionado por los hackatones y el desarrollo de soluciones en tiempo récord.
 - 🛠️ En constante optimización de infraestructura: gestiono mis propios despliegues en VPS (Hetzner) utilizando Docker y Coolify.
 - 🌱 Actualmente desarrollando de forma independiente:
