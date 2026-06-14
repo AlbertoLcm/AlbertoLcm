@@ -3,6 +3,7 @@
 Soy un **Ingeniero en Sistemas Computacionales** de 24 años, radicado en México, apasionado por el desarrollo Full-Stack, la arquitectura de software y la automatización de procesos. 
 
 Actualmente me desempeño en el equipo de **Analitica y mejora continua en Autoridades en BBVA**, donde me especializo en la optimización de procesos, análisis de datos y el diseño e implementación de automatizaciones E2E.
+
 ---
 
 ### 👨‍💻 Sobre mí
