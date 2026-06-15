@@ -12,17 +12,17 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Soy un **Ingeniero en Sistemas Computacionales** de 24 años radicado en México, apasionado por el desarrollo Full-Stack, la arquitectura de software y la automatización de procesos. 
 
-* 🏦 **Actualidad:** Me desempeño en el equipo de **Analítica y Mejora Continua en Autoridades en BBVA**, especializándome en la optimización de procesos, análisis de datos y el diseño e implementación de automatizaciones E2E.
-* 🎓 **Formación:** Egresado del Tecnológico de Estudios Superiores Ixtapaluca (TESI) y Técnico en Programación por el CECyTEM.
-* 🏆 **Mindset:** Apasionado por los hackatones, la resolución de problemas bajo presión y el desarrollo de soluciones en tiempo récord.
+* **Actualidad:** Me desempeño en el equipo de **Analítica y Mejora Continua en Autoridades en BBVA**, especializándome en la optimización de procesos, análisis de datos y el diseño e implementación de automatizaciones E2E.
+* **Formación:** Egresado del Tecnológico de Estudios Superiores Ixtapaluca (TESI) y Técnico en Programación por el CECyTEM.
+* **Mindset:** Apasionado por los hackatones, la resolución de problemas bajo presión y el desarrollo de soluciones en tiempo récord.
 
 ---
 
-### 🛠️ Proyectos Actuales
+### Proyectos Actuales
 
 Gestiono mi propia infraestructura desplegando en **VPS (Hetzner)** mediante **Docker** y **Coolify**, lo que me permite iterar rápido en mis desarrollos independientes:
 
@@ -31,7 +31,7 @@ Gestiono mi propia infraestructura desplegando en **VPS (Hetzner)** mediante **D
 
 ---
 
-### 💻 Stack Tecnológico
+### Stack Tecnológico
 
 | Capa | Tecnologías |
 | :--- | :--- |
@@ -42,9 +42,9 @@ Gestiono mi propia infraestructura desplegando en **VPS (Hetzner)** mediante **D
 
 ---
 
-### 🤝 Conectemos
+### Conectemos
 
-💬 *¡Siempre abierto a platicar sobre código, arquitectura en la nube, automatizaciones o diseño de software!*
+*¡Siempre abierto a platicar sobre código, arquitectura en la nube, automatizaciones o diseño de software!*
 
 <p align="left">
   <a href="https://wa.me/5529937998" target="_blank">
